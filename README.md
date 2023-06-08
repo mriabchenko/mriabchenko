@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mriabchenko
-- 👀 I’m interested in angular front end development
-- 🌱 I’m currently learning electron, firebase
-- 💞️ I’m looking to collaborate on startup
+- 👀 I’m interested in angular, nestjs, mongodb stack
+- 🌱 I’m currently learning mongodb
 - 📫 How to reach me [https://www.linkedin.com/in/mykola-riabchenko/](https://www.linkedin.com/in/mykola-riabchenko/)
 
 <!---
